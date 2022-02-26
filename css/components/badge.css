@@ -8,4 +8,9 @@
     align-items: center;
     color: white;
     font-weight: 500;
+    font-size: 14px;
+}
+
+.badge__new{
+    margin-left: 8px;
 }

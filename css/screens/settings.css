@@ -5,14 +5,20 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 12px;
 }
-
+.settings__setting:nth-child(4){
+    margin-top: 30px;
+}
 .settings__setting i{
     opacity: 0.8;
     margin-right: 24px;
     font-size: 22px;
 }
-
+.settings__setting-columm{
+    display: flex;
+    align-items: center;
+}
 .settings__setting-columm:last-child{
     opacity: 0.5;
 }
